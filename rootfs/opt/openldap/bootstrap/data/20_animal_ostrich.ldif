@@ -1,0 +1,14 @@
+dn: cn=ostrich,ou=animals,dc=zoo,dc=example,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+cn: ostrich
+sn: Legolas
+description: Run for your life
+givenName: Leggy
+mail: ostrich@zoo.example.com
+ou: animal
+uid: ostrich
+userPassword:: e1NTSEF9d0p2OXMyWjltMGJTMFIxV1k3QjdCRWZEVVZPQzg2Y3BWL3VDMHc9PQ=
+ =

@@ -1,0 +1,14 @@
+dn: cn=flamingo,ou=animals,dc=zoo,dc=example,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+cn: flamingo
+sn: Floyd
+description: Majestic pink birb
+givenName: Flinnigan
+mail: flamingo@zoo.example.com
+ou: animal
+uid: flamingo
+userPassword:: e1NTSEF9d0p2OXMyWjltMGJTMFIxV1k3QjdCRWZEVVZPQzg2Y3BWL3VDMHc9PQ=
+ =

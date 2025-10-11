@@ -1,0 +1,14 @@
+dn: cn=horse,ou=animals,dc=zoo,dc=example,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+cn: horse
+sn: Trotter
+description: Hairy Trotter
+givenName: Hairy
+mail: horse@zoo.example.com
+ou: animal
+uid: horse
+userPassword:: e1NTSEF9d0p2OXMyWjltMGJTMFIxV1k3QjdCRWZEVVZPQzg2Y3BWL3VDMHc9PQ=
+ =

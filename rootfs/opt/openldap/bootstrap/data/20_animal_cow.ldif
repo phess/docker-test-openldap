@@ -1,0 +1,14 @@
+dn: cn=cow,ou=animals,dc=zoo,dc=example,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+cn: cow
+sn: McDonald
+description: Feeds much of the world
+givenName: Cow-vin Klein
+mail: cow@zoo.example.com
+ou: animal
+uid: cow
+userPassword:: e1NTSEF9d0p2OXMyWjltMGJTMFIxV1k3QjdCRWZEVVZPQzg2Y3BWL3VDMHc9PQ=
+ =

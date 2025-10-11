@@ -1,0 +1,14 @@
+dn: cn=duck,ou=animals,dc=zoo,dc=example,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+cn: duck
+sn: Quackson
+description: Walks like one, quacks like one
+givenName: Duck Norris
+mail: duck@zoo.example.com
+ou: animal
+uid: duck
+userPassword:: e1NTSEF9d0p2OXMyWjltMGJTMFIxV1k3QjdCRWZEVVZPQzg2Y3BWL3VDMHc9PQ=
+ =

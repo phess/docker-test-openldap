@@ -1,0 +1,14 @@
+dn: cn=bat,ou=animals,dc=zoo,dc=example,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+cn: bat
+sn: creature
+description: Non human batman
+givenName: Bruce
+mail: bat@zoo.example.com
+ou: animals
+uid: bat
+userPassword:: e1NTSEF9d0p2OXMyWjltMGJTMFIxV1k3QjdCRWZEVVZPQzg2Y3BWL3VDMHc9PQ=
+ =

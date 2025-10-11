@@ -1,0 +1,14 @@
+dn: cn=seal,ou=animals,dc=zoo,dc=example,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+cn: Sealvester
+sn: Stallone
+description: Winner at all sports
+givenName: Sealvester
+mail: seal@zoo.example.com
+ou: animal
+uid: seal
+userPassword:: e1NTSEF9d0p2OXMyWjltMGJTMFIxV1k3QjdCRWZEVVZPQzg2Y3BWL3VDMHc9PQ=
+ =

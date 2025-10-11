@@ -1,0 +1,14 @@
+dn: cn=falcon,ou=animals,dc=zoo,dc=example,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+cn: falcon
+sn: Maverick
+description: Is a falcon
+givenName: Swoop Dogg
+mail: falcon@zoo.example.com
+ou: animal
+uid: falcon
+userPassword:: e1NTSEF9d0p2OXMyWjltMGJTMFIxV1k3QjdCRWZEVVZPQzg2Y3BWL3VDMHc9PQ=
+ =

@@ -1,0 +1,14 @@
+dn: cn=dog,ou=animals,dc=zoo,dc=example,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+cn: dog
+sn: Chewbarka
+description: Hoomans' best friend
+givenName: Chewbarka
+mail: dog@zoo.example.com
+ou: animal
+uid: dog
+userPassword:: e1NTSEF9d0p2OXMyWjltMGJTMFIxV1k3QjdCRWZEVVZPQzg2Y3BWL3VDMHc9PQ=
+ =

@@ -1,0 +1,14 @@
+dn: cn=eagle,ou=animals,dc=zoo,dc=example,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+cn: eagle
+sn: Feathers
+description: Looks serious but tells great jokes
+givenName: Clarence
+mail: eagle@zoo.example.com
+ou: animal
+uid: eagle
+userPassword:: e1NTSEF9d0p2OXMyWjltMGJTMFIxV1k3QjdCRWZEVVZPQzg2Y3BWL3VDMHc9PQ=
+ =

@@ -1,0 +1,14 @@
+dn: cn=cat,ou=animals,dc=zoo,dc=example,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+cn: cat
+sn: Feline
+description: If we fitz we sitz
+givenName: Meow
+mail: cat@zoo.example.com
+ou: animal
+uid: cat
+userPassword:: e1NTSEF9d0p2OXMyWjltMGJTMFIxV1k3QjdCRWZEVVZPQzg2Y3BWL3VDMHc9PQ=
+ =

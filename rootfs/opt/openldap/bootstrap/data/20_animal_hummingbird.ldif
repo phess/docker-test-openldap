@@ -1,0 +1,14 @@
+dn: cn=hummingbird,ou=animals,dc=zoo,dc=example,dc=com
+objectClass: top
+objectClass: person
+objectClass: organizationalPerson
+objectClass: inetOrgPerson
+cn: hummingbird
+sn: Hummingway
+description: Buzzes like an insect
+givenName: Ernest
+mail: hummingbird@zoo.example.com
+ou: animal
+uid: hummingbird
+userPassword:: e1NTSEF9d0p2OXMyWjltMGJTMFIxV1k3QjdCRWZEVVZPQzg2Y3BWL3VDMHc9PQ=
+ =
