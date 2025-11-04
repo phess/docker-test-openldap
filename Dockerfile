@@ -3,9 +3,9 @@ FROM debian:bookworm-slim
 # Configuration Env Variables with defaults
 ENV DATA_DIR="/opt/openldap/bootstrap/data"
 ENV CONFIG_DIR="/opt/openldap/bootstrap/config"
-ENV LDAP_DOMAIN=planetexpress.com
-ENV LDAP_ORGANISATION="Planet Express, Inc."
-ENV LDAP_BINDDN="cn=admin,dc=planetexpress,dc=com"
+ENV LDAP_DOMAIN=example.com
+ENV LDAP_ORGANISATION="Zoo at example.com"
+ENV LDAP_BINDDN="cn=admin,dc=example,dc=com"
 ENV LDAP_SECRET=GoodNewsEveryone
 ENV LDAP_CA_CERT="/etc/ldap/ssl/fullchain.crt"
 ENV LDAP_SSL_KEY="/etc/ldap/ssl/ldap.key"
