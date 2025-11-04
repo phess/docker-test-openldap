@@ -1,8 +1,16 @@
-dn: cn=ship_crew,ou=people,dc=planetexpress,dc=com
+dn: cn=birds,ou=zoo,dc=example,dc=com
 objectclass: Group
 objectclass: top
 groupType: 2147483650
 cn: birds
-member: cn=Philip J. Fry,ou=people,dc=planetexpress,dc=com
-member: cn=Turanga Leela,ou=people,dc=planetexpress,dc=com
-member: cn=Bender Bending Rodriguez,ou=people,dc=planetexpress,dc=com
+member: cn=chicken,ou=zoo,dc=example,dc=com
+member: cn=duck,ou=zoo,dc=example,dc=com
+member: cn=eagle,ou=zoo,dc=example,dc=com
+member: cn=falcon,ou=zoo,dc=example,dc=com
+member: cn=flamingo,ou=zoo,dc=example,dc=com
+member: cn=hummingbird,ou=zoo,dc=example,dc=com
+member: cn=ostrich,ou=zoo,dc=example,dc=com
+member: cn=owl,ou=zoo,dc=example,dc=com
+member: cn=penguin,ou=zoo,dc=example,dc=com
+member: cn=pidgeon,ou=zoo,dc=example,dc=com
+member: cn=seagull,ou=zoo,dc=example,dc=com

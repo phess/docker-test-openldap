@@ -1,4 +1,4 @@
-dn: cn=seagull,ou=animals,dc=zoo,dc=example,dc=com
+dn: cn=seagull,ou=zoo,dc=example,dc=com
 objectClass: top
 objectClass: person
 objectClass: organizationalPerson

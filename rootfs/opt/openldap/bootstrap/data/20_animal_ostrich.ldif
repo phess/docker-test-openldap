@@ -1,4 +1,4 @@
-dn: cn=ostrich,ou=animals,dc=zoo,dc=example,dc=com
+dn: cn=ostrich,ou=zoo,dc=example,dc=com
 objectClass: top
 objectClass: person
 objectClass: organizationalPerson

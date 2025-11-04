@@ -1,0 +1,11 @@
+dn: cn=can_dive,ou=zoo,dc=example,dc=com
+objectclass: Group
+objectclass: top
+groupType: 2147483650
+cn: can_dive
+member: cn=dolphin,ou=zoo,dc=example,dc=com
+member: cn=duck,ou=zoo,dc=example,dc=com
+member: cn=penguin,ou=zoo,dc=example,dc=com
+member: cn=seagull,ou=zoo,dc=example,dc=com
+member: cn=seal,ou=zoo,dc=example,dc=com
+member: cn=whale,ou=zoo,dc=example,dc=com

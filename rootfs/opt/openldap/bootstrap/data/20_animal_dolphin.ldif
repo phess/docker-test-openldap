@@ -1,4 +1,4 @@
-dn: cn=dolphin,ou=animals,dc=zoo,dc=example,dc=com
+dn: cn=dolphin,ou=zoo,dc=example,dc=com
 objectClass: top
 objectClass: person
 objectClass: organizationalPerson

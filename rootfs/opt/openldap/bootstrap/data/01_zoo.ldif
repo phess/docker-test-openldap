@@ -1,0 +1,5 @@
+dn: ou=zoo,dc=example,dc=com
+objectClass: top
+objectClass: organizationalUnit
+description: Zoo inhabitants
+ou: zoo

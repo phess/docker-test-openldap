@@ -1,8 +1,12 @@
-dn: cn=ship_crew,ou=people,dc=planetexpress,dc=com
+dn: cn=can_run,ou=zoo,dc=example,dc=com
 objectclass: Group
 objectclass: top
 groupType: 2147483650
 cn: can_run
-member: cn=Philip J. Fry,ou=people,dc=planetexpress,dc=com
-member: cn=Turanga Leela,ou=people,dc=planetexpress,dc=com
-member: cn=Bender Bending Rodriguez,ou=people,dc=planetexpress,dc=com
+member: cn=cat,ou=zoo,dc=example,dc=com
+member: cn=chicken,ou=zoo,dc=example,dc=com
+member: cn=cow,ou=zoo,dc=example,dc=com
+member: cn=dog,ou=zoo,dc=example,dc=com
+member: cn=horse,ou=zoo,dc=example,dc=com
+member: cn=ostrich,ou=zoo,dc=example,dc=com
+member: cn=squirrel,ou=zoo,dc=example,dc=com

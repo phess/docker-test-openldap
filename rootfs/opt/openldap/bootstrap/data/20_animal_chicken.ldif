@@ -1,4 +1,4 @@
-dn: cn=chicken,ou=animals,dc=zoo,dc=example,dc=com
+dn: cn=chicken,ou=zoo,dc=example,dc=com
 objectClass: top
 objectClass: person
 objectClass: organizationalPerson
